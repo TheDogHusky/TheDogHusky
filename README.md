@@ -3,6 +3,15 @@
 - 📌 The project I'm actually working on: [WorldWild Studios](https://worldwild.studio)
 - 🌹 I'm 13 years old and learnt Java at 11.
 
+## 💻 Setup
+- AMD Ryzen 5 3600
+- GeForce RTX 2060 Gaming OC
+- SSD NVMe Crucial 500Go
+- Disque Dur Crucial 2To
+- Tomahauwk Max II
+- SeaSonic Focus GX-850
+- Corsair Carbide SPEC-DELTA RGB - Noir
+
 ## 🌍 Languages:
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
