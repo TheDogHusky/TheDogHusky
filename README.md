@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm ClassyCrafter(\_YT)
 - 💬 I'm a French developer.
 - 📌 The project I'm actually working on: [WorldWild Studios](https://worldwild.studio)
-- 🌹 I'm 13 years old and learnt Java at 11.
 
 ## 💻 Setup
 - AMD Ryzen 5 3600
