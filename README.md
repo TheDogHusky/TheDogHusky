@@ -6,10 +6,10 @@
 - AMD Ryzen 5 3600
 - GeForce RTX 2060 Gaming OC
 - SSD NVMe Crucial 500Go
-- Disque Dur Crucial 2To
+- Hard Disk Crucial 2To
 - Tomahauwk Max II
 - SeaSonic Focus GX-850
-- Corsair Carbide SPEC-DELTA RGB - Noir
+- Corsair Carbide SPEC-DELTA RGB - Black
 
 ## 🌍 Languages:
 <p>
@@ -25,7 +25,7 @@
 - 💻 [WorldWild Studios](https://worldwild.studio), company that makes a lot of powerful softwares.
 - ⚒️ [Sayone](https://sayone.worldwildmc.fr), Java Survival Minecraft server.
 - 🧰 [MCStatus](https://mcstatus.worldwildmc.fr), status pages for MC servers.
-- 🤖 [DBots](https://dbots.worldwildmc.fr), one click Discord bot hosting.
+- 🤖 [DBots](https://dbots.worldwildmc.fr), one click Discord bot hosting. [ Paused - No machine ]
 - 🔧 [DBots Creator](https://dbots.worldwildmc.fr), code Discord bots with Blockly (similar to Scratch).
 - 🐺 [HuskyBot](https://huskybot-site.thedoghusky.repl.co), multiporpose Discord bot.
 
@@ -49,7 +49,7 @@
 
 ## 📚 Learn with:
 <p>
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />
+    <a href="https://codecademy.com"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" /></a>
 </p>
 
 ## 📈 Stats
