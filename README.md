@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm ClassyCrafter(\_YT)
 - 💬 I'm a French developer.
 - 📌 The project I'm actually working on: [WorldWild Studios](https://worldwild.studio)
+- 🧰 Currently learning full Java and TypeScript
 
 ## 💻 Setup
 - AMD Ryzen 5 3600
