@@ -2,7 +2,9 @@
 - 💬 I'm a French developer.
 - 📌 The project I'm actually working on: [WorldWild Studios](https://worldwild.studio)
 - 🧰 Currently learning full Java and TypeScript
-
+<p>
+    <img src="https://komarev.com/ghpvc/?username=TheDogHusky&color=lightgrey&style=for-the-badge" />
+</p>
 ## 💻 Setup
 - AMD Ryzen 5 3600
 - GeForce RTX 2060 Gaming OC
