@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm ClassyCrafter(\_YT)
 - 💬 I'm a French developer.
 - 📌 The project I'm actually working on: [WorldWild Studios](https://worldwild.studio)
+- 💡 I'm working on [Yuki](https://github.com/TheDogHusky/Yuki) too.
 - 🧰 Currently learning full Java and TypeScript
 <p>
     <img src="https://komarev.com/ghpvc/?username=TheDogHusky&color=lightgrey&style=for-the-badge" />
