@@ -35,6 +35,7 @@
 - 🤖 [DBots](https://dbots.worldwildmc.fr), one click Discord bot hosting. [ Paused - No machine ]
 - 🔧 [DBots Creator](https://dbots.worldwildmc.fr), code Discord bots with Blockly (similar to Scratch).
 - 🐺 [HuskyBot](https://huskybot-site.thedoghusky.repl.co), multiporpose Discord bot.
+- ⚙ [Yuki](https://github.com/TheDogHusku/Yuki), multiporpose advanced Discord bot in several langs.
 
 ## 🚀 Frameworks:
 <p>
