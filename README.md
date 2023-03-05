@@ -4,6 +4,7 @@
 - 📌 I'm actually working on a little compagny named [WorldWild Studios](https://worldwild.studio)
 - 💡 I'm working on an anime based Discord bot! [Yuki](https://github.com/TheDogHusky/Yuki)
 - 🧰 Currently learning full Java and TypeScript!
+- ❤️ I love Japanese culture and anime!
 <p>
     <img src="https://komarev.com/ghpvc/?username=TheDogHusky&color=lightgrey&style=for-the-badge" />
 </p>
