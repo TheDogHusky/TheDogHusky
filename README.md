@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=TheDogHusky&color=lightgrey&style=for-the-badge" />
 </p>
 
-## 💻 Ｍｙ Ｓｅｔｕｐ　（凹ヶス）
+## 💻 Ｍｙ　Ｓｅｔｕｐ　（凹ヶス）
 - ɞ AMD Ryzen 5 3600 (Good one but rip when hosting modded Minecraft)
 - ɞ GeForce RTX 2060 Gaming OC (I like it)
 - ɞ SSD NVMe Crucial 500Go (Almost full..)
@@ -17,7 +17,7 @@
 - ɞ SeaSonic Focus GX-850 (Works well)
 - ɞ Corsair Carbide SPEC-DELTA RGB - Black (This is noice style)
 
-## Ｔｅｃｈｎｏｌｏｇｉｅｓ Ｉ ｋｎｏｗ （ａｎｄ ｕｓｅ）　（のイ引穏胃）
+## Ｔｅｃｈｎｏｌｏｇｉｅｓ　Ｉ ｋｎｏｗ  （ａｎｄ　ｕｓｅ）　（のイ引穏胃）
 
 ### 【Ｌａｎｇｕａｇｅｓ】
 <p>
@@ -49,7 +49,7 @@
 </p>
 
 
-## Ｍｙ ｐｒｏｊｅｃｔｓ！　（ギでグ）
+## Ｍｙ　ｐｒｏｊｅｃｔｓ！　（ギでグ）
 - ɞ [WorldWild](https://www.worldwildmc.fr), Java Mini-Games Minecraft server! (stopped)
 - ɞ [WorldWild Studios](https://worldwild.studio), company that makes a lot of powerful software!
 - ɞ [Sayone](https://sayone.worldwildmc.fr), Java Survival Minecraft server! (stopped)
@@ -58,12 +58,12 @@
 - ɞ [HuskyBot](https://huskybot-site.thedoghusky.repl.co), multipurpose Discord bot!
 - ɞ [Yuki](https://github.com/TheDogHusku/Yuki), multipurpose advanced Discord bot in several languages!
 
-## Ｉ ｌｅａｒｎｔ ｗｉｔｈ　（桜翁因）
+## Ｉ　ｌｅａｒｎｔ　ｗｉｔｈ　（桜翁因）
 <p>
     <a href="https://codecademy.com"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" /></a>
 </p>
 
-## Ｍｙ ｌｉｔｔｌｅ ｓｔａｔｓ　（殴ィ恩）
+## Ｍｙ　ｌｉｔｔｌｅ　ｓｔａｔｓ　（殴ィ恩）
 <img src="https://github-readme-stats.vercel.app/api?username=TheDogHusky&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDogHusky&theme=blue-green" />
 
