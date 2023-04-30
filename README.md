@@ -5,6 +5,9 @@
 - 💡 I'm working on an anime based Discord bot! [Yuki](https://github.com/TheDogHusky/Yuki)
 - 🧰 Currently learning full Java and TypeScript!
 - ❤️ I love Japanese culture and anime!
+- 📫 You can contact me on [my links](https://classy.works)!
+- 🤝 I'm always interested in any collaboration, especially on [NekoNya](https://nekonya.classy.works)!
+
 <p>
     <img src="https://komarev.com/ghpvc/?username=TheDogHusky&color=lightgrey&style=for-the-badge" />
 </p>
