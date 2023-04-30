@@ -1,7 +1,7 @@
 # ヾ(＾∇＾) - Ｗｅｌｃｏｍｅ！！　往怨印
 - 🌿 Hi there! My name's Adam!
 - 💬 I'm a French developer!
-- 📌 I'm actually working on a little compagny named [WorldWild Studios](https://worldwild.studio)
+- 📌 I'm actually working on a little company named [WorldWild Studios](https://worldwild.studio)
 - 💡 I'm working on an anime based Discord bot! [Yuki](https://github.com/TheDogHusky/Yuki)
 - 🧰 Currently learning full Java and TypeScript!
 - ❤️ I love Japanese culture and anime!
