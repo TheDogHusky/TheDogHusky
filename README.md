@@ -5,8 +5,8 @@
 - 💡 I'm working on an anime based Discord bot! [Yuki](https://github.com/TheDogHusky/Yuki)
 - 🧰 Currently learning full Java and TypeScript!
 - ❤️ I love Japanese culture and anime!
-- 📫 You can contact me on [my links](https://classy.works)!
-- 🤝 I'm always interested in any collaboration, especially on [NekoNya](https://nekonya.classy.works)!
+- 📫 You can contact me on [my links](https://classydev.fr)!
+- 🤝 I'm always interested in any collaboration, especially on [NekoNya](https://nekonya.classydev.fr)!
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=TheDogHusky&color=lightgrey&style=for-the-badge" />
@@ -54,13 +54,9 @@
 
 
 ## Ｍｙ　ｐｒｏｊｅｃｔｓ！　（ギでグ）
-- ɞ [WorldWild](https://www.worldwildmc.fr), Java Mini-Games Minecraft server! (stopped)
 - ɞ [WorldWild Studios](https://worldwild.studio), company that makes a lot of powerful software!
-- ɞ [Sayone](https://sayone.worldwildmc.fr), Java Survival Minecraft server! (stopped)
-- ɞ [MCStatus](https://mcstatus.worldwildmc.fr), status pages for MC servers!
-- ɞ [BlurHost](https://github.com/BlurHost), one click Discord bot hosting!
-- ɞ [HuskyBot](https://huskybot-site.thedoghusky.repl.co), multipurpose Discord bot!
 - ɞ [Yuki](https://github.com/TheDogHusku/Yuki), multipurpose advanced Discord bot in several languages!
+- ɞ [NekoNya](https://github.com/NekoNyaDevs), an anime-themed website with many features!
 
 ## Ｉ　ｌｅａｒｎｔ　ｗｉｔｈ　（桜翁因）
 <p>
