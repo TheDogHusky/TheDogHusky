@@ -1,8 +1,6 @@
-# ヾ(＾∇＾) - Ｗｅｌｃｏｍｅ！！　往怨印
+# ヾ(＾∇＾) - Ｗｅｌｃｏｍｅ！！
 - 🌿 Hi there! My name's Adam!
 - 💬 I'm a French developer!
-- 📌 I'm actually working on a little company named [WorldWild Studios](https://worldwild.studio)
-- 💡 I'm working on an anime based Discord bot! [Yuki](https://github.com/TheDogHusky/Yuki)
 - 🧰 Currently learning full Java and TypeScript!
 - ❤️ I love Japanese culture and anime!
 - 📫 You can contact me on [my links](https://classydev.fr)!
@@ -12,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=TheDogHusky&color=lightgrey&style=for-the-badge" />
 </p>
 
-## 💻 Ｍｙ　Ｓｅｔｕｐ　（凹ヶス）
+##  Ｍｙ　Ｓｅｔｕｐ
 - ɞ AMD Ryzen 5 3600 (Good one but rip when hosting modded Minecraft)
 - ɞ GeForce RTX 2060 Gaming OC (I like it)
 - ɞ SSD NVMe Crucial 500Go (Almost full..)
@@ -21,7 +19,7 @@
 - ɞ SeaSonic Focus GX-850 (Works well)
 - ɞ Corsair Carbide SPEC-DELTA RGB - Black (This is noice style)
 
-## Ｔｅｃｈｎｏｌｏｇｉｅｓ　Ｉ ｋｎｏｗ  （ａｎｄ　ｕｓｅ）　（のイ引穏胃）
+## Ｔｅｃｈｎｏｌｏｇｉｅｓ　Ｉ ｋｎｏｗ  （ａｎｄ　ｕｓｅ）
 
 ### 【Ｌａｎｇｕａｇｅｓ】
 <p>
@@ -53,12 +51,12 @@
 </p>
 
 
-## Ｍｙ　ｐｒｏｊｅｃｔｓ！　（ギでグ）
+## Ｍｙ　ｐｒｏｊｅｃｔｓ！
 - ɞ [WorldWild Studios](https://worldwild.studio), company that makes a lot of powerful software!
 - ɞ [Yuki](https://github.com/TheDogHusku/Yuki), multipurpose advanced Discord bot in several languages!
 - ɞ [NekoNya](https://github.com/NekoNyaDevs), an anime-themed website with many features!
 
-## Ｉ　ｌｅａｒｎｔ　ｗｉｔｈ　（桜翁因）
+## Ｉ　ｌｅａｒｎｔ　ｗｉｔｈ
 <p>
     <a href="https://codecademy.com"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" /></a>
 </p>
