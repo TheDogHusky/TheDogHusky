@@ -57,7 +57,7 @@
     <a href="https://codecademy.com"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" /></a>
 </p>
 
-## Ｍｙ　ｌｉｔｔｌｅ　ｓｔａｔｓ　（殴ィ恩）
+## Ｍｙ　ｌｉｔｔｌｅ　ｓｔａｔｓ
 <img src="https://github-readme-stats.vercel.app/api?username=TheDogHusky&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDogHusky&theme=blue-green" />
 
