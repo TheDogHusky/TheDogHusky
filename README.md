@@ -11,13 +11,15 @@
 </p>
 
 ##  Ｍｙ　Ｓｅｔｕｐ
-- ɞ AMD Ryzen 5 3600 (Good one but rip when hosting modded Minecraft)
-- ɞ GeForce RTX 2060 Gaming OC (I like it)
-- ɞ SSD NVMe Crucial 500Go (Almost full..)
-- ɞ Hard Disk Crucial 2To (it's really hard)
-- ɞ Tomahauwk Max II (Looks good)
-- ɞ SeaSonic Focus GX-850 (Works well)
-- ɞ Corsair Carbide SPEC-DELTA RGB - Black (This is noice style)
+- ɞ AMD Ryzen 5 3600
+- ɞ GeForce RTX 2060 Gaming OC
+- ɞ SSD NVMe Crucial 500Go
+- ɞ SSD Samsung 990 Pro 2TB
+- ɞ Hard Disk Seasonic Barracuda 2TB
+- ɞ Hard Disk Seasonic Barracuda 500GB
+- ɞ MSI Tomahauwk Max II
+- ɞ SeaSonic Focus GX-850
+- ɞ Corsair Carbide SPEC-DELTA RGB - Black
 
 ## Ｔｅｃｈｎｏｌｏｇｉｅｓ　Ｉ ｋｎｏｗ  （ａｎｄ　ｕｓｅ）
 
