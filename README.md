@@ -1,4 +1,4 @@
-# ヾ(＾∇＾) - Ｗｅｌｃｏｍｅ！！
+# ヾ(＾∇＾) - Ｗｅｌｃｏｍｅ！
 - 🌿 Hi there! My name's Adam!
 - 💬 I'm a French developer!
 - 🧰 Currently learning full Java and TypeScript!
