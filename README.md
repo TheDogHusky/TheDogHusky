@@ -30,5 +30,7 @@ Currently, a student at [Simone-Veil](https://lycee-simone-veil-liffre.ac-rennes
 - [Website](https://classydev.fr): My personal website.
 - [Music](https://music.classydev.fr): My personal music website, where I post my songs.
 - [NekoNya](https://github.com/NekoNyaDevs): An anime-themed website, with a few features such as an image API.
+- [Home-Clock](https://clock.classydev.fr): A minimanist, focus-driven clock webapp.
+- [Docker-Watch](https://github.com/TheDogHusky/docker-watch): A tool to watch for container events and execute a command.
 
 *Thank you for reading this README, have a great day!*
